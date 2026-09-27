@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
+| [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -90,4 +91,16 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shalini47ch/Top-75-Hard/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
