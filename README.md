@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/shalini47ch/Top-75-Hard/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -13,6 +14,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
@@ -105,4 +107,16 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
