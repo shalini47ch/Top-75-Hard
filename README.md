@@ -7,6 +7,7 @@
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,24 @@
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
