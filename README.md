@@ -17,10 +17,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0052-n-queens-ii) |
 ## Hash Table
 |  |
 | ------- |
