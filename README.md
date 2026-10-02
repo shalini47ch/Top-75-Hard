@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
+| [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
@@ -119,6 +121,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
 ## Biconnected Component
 |  |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
