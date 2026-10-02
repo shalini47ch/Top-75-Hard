@@ -149,6 +149,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shalini47ch/Top-75-Hard/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shalini47ch/Top-75-Hard/tree/master/0025-reverse-nodes-in-k-group) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/shalini47ch/Top-75-Hard/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
