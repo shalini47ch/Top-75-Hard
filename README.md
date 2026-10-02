@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalini47ch/Top-75-Hard/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shalini47ch/Top-75-Hard/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -19,6 +20,7 @@
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
 ## Backtracking
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shalini47ch/Top-75-Hard/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
