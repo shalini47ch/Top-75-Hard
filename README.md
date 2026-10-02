@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalini47ch/Top-75-Hard/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
@@ -20,6 +21,7 @@
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
@@ -28,6 +30,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -38,12 +41,14 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/shalini47ch/Top-75-Hard/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shalini47ch/Top-75-Hard/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## String
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -153,4 +158,12 @@
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
