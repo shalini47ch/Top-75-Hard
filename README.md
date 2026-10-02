@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shalini47ch/Top-75-Hard/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
@@ -28,17 +29,20 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0052-n-queens-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shalini47ch/Top-75-Hard/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
@@ -157,6 +161,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 ## Trie
 |  |
@@ -166,4 +171,8 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
