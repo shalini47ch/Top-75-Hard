@@ -18,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
@@ -138,6 +140,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalini47ch/Top-75-Hard/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
@@ -187,4 +190,8 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/shalini47ch/Top-75-Hard/tree/master/0025-reverse-nodes-in-k-group) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
