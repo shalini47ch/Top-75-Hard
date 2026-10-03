@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalini47ch/Top-75-Hard/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shalini47ch/Top-75-Hard/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/shalini47ch/Top-75-Hard/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -143,11 +145,13 @@
 | [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalini47ch/Top-75-Hard/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shalini47ch/Top-75-Hard/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalini47ch/Top-75-Hard/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shalini47ch/Top-75-Hard/tree/master/0085-maximal-rectangle) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +173,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/shalini47ch/Top-75-Hard/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 ## Trie
 |  |
