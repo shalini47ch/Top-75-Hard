@@ -21,6 +21,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/shalini47ch/Top-75-Hard/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shalini47ch/Top-75-Hard/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/shalini47ch/Top-75-Hard/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
