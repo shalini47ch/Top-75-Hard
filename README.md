@@ -7,6 +7,7 @@
 | [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shalini47ch/Top-75-Hard/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/shalini47ch/Top-75-Hard/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalini47ch/Top-75-Hard/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shalini47ch/Top-75-Hard/tree/master/0085-maximal-rectangle) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Top-75-Hard/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/shalini47ch/Top-75-Hard/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shalini47ch/Top-75-Hard/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
@@ -217,4 +219,8 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/shalini47ch/Top-75-Hard/tree/master/0354-russian-doll-envelopes) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
