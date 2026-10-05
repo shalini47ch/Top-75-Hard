@@ -15,6 +15,7 @@
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
+| [0354-russian-doll-envelopes](https://github.com/shalini47ch/Top-75-Hard/tree/master/0354-russian-doll-envelopes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shalini47ch/Top-75-Hard/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0354-russian-doll-envelopes](https://github.com/shalini47ch/Top-75-Hard/tree/master/0354-russian-doll-envelopes) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shalini47ch/Top-75-Hard/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
@@ -203,4 +205,16 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shalini47ch/Top-75-Hard/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/shalini47ch/Top-75-Hard/tree/master/0354-russian-doll-envelopes) |
+## Sorting
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/shalini47ch/Top-75-Hard/tree/master/0354-russian-doll-envelopes) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/shalini47ch/Top-75-Hard/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
