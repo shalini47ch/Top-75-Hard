@@ -29,6 +29,7 @@
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shalini47ch/Top-75-Hard/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shalini47ch/Top-75-Hard/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Breadth-First Search
 |  |
 | ------- |
