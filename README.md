@@ -16,6 +16,7 @@
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0239-sliding-window-maximum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0239-sliding-window-maximum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/shalini47ch/Top-75-Hard/tree/master/0354-russian-doll-envelopes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shalini47ch/Top-75-Hard/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Dynamic Programming
@@ -33,6 +34,7 @@
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Top-75-Hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/shalini47ch/Top-75-Hard/tree/master/0354-russian-doll-envelopes) |
 | [0664-strange-printer](https://github.com/shalini47ch/Top-75-Hard/tree/master/0664-strange-printer) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
 ## Bidirectional Search
 |  |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
@@ -137,6 +141,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
 ## Biconnected Component
@@ -187,6 +192,7 @@
 | [0037-sudoku-solver](https://github.com/shalini47ch/Top-75-Hard/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/shalini47ch/Top-75-Hard/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/shalini47ch/Top-75-Hard/tree/master/0174-dungeon-game) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -195,6 +201,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Dancing Links
 |  |
 | ------- |
@@ -227,4 +234,12 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0045-jump-game-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
