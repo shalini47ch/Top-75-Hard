@@ -1,6 +1,6 @@
 class Solution:
     def longestIncreasingPath(self, matrix: List[List[int]]) -> int:
-        #lets use the concept of dfs along with backtracking to solve this 
+        #lets use the concept of dfs along with dp to solve this 
         m=len(matrix)
         n=len(matrix[0])
         dp=[[0 for i in range(n+1)]for j in range(m+1)]
