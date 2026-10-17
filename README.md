@@ -60,6 +60,7 @@
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shalini47ch/Top-75-Hard/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/shalini47ch/Top-75-Hard/tree/master/0432-all-oone-data-structure) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shalini47ch/Top-75-Hard/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/shalini47ch/Top-75-Hard/tree/master/0432-all-oone-data-structure) |
 ## Randomized
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shalini47ch/Top-75-Hard/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shalini47ch/Top-75-Hard/tree/master/0025-reverse-nodes-in-k-group) |
+| [0432-all-oone-data-structure](https://github.com/shalini47ch/Top-75-Hard/tree/master/0432-all-oone-data-structure) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -242,4 +245,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/shalini47ch/Top-75-Hard/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
