@@ -176,6 +176,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shalini47ch/Top-75-Hard/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shalini47ch/Top-75-Hard/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/shalini47ch/Top-75-Hard/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/shalini47ch/Top-75-Hard/tree/master/0432-all-oone-data-structure) |
 ## Divide and Conquer
 |  |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/shalini47ch/Top-75-Hard/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/shalini47ch/Top-75-Hard/tree/master/0206-reverse-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
