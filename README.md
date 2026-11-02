@@ -89,6 +89,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Top-75-Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/shalini47ch/Top-75-Hard/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -97,6 +98,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Top-75-Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
+| [0938-range-sum-of-bst](https://github.com/shalini47ch/Top-75-Hard/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Top-75-Hard/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
@@ -104,6 +106,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Top-75-Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/shalini47ch/Top-75-Hard/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
 ## DP on Trees
 |  |
@@ -257,4 +260,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/shalini47ch/Top-75-Hard/tree/master/0432-all-oone-data-structure) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/shalini47ch/Top-75-Hard/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
