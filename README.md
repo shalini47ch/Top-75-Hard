@@ -70,12 +70,14 @@
 | [0097-interleaving-string](https://github.com/shalini47ch/Top-75-Hard/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/shalini47ch/Top-75-Hard/tree/master/0140-word-break-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Top-75-Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0664-strange-printer](https://github.com/shalini47ch/Top-75-Hard/tree/master/0664-strange-printer) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shalini47ch/Top-75-Hard/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shalini47ch/Top-75-Hard/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Top-75-Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
 ## Bidirectional Search
@@ -86,11 +88,13 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Top-75-Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Top-75-Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Top-75-Hard/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/shalini47ch/Top-75-Hard/tree/master/0684-redundant-connection) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
@@ -99,6 +103,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Top-75-Hard/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Top-75-Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/shalini47ch/Top-75-Hard/tree/master/0968-binary-tree-cameras) |
 ## DP on Trees
 |  |
@@ -134,6 +139,7 @@
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Top-75-Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shalini47ch/Top-75-Hard/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/shalini47ch/Top-75-Hard/tree/master/0432-all-oone-data-structure) |
 ## Randomized
